@@ -1,0 +1,21 @@
+Patient_ID,Age,Gender,State,Cancer_Type,Tobacco_Use,Stage,Survival_Status
+1,45,Male,Karnataka,Oral,Yes,III,Alive
+2,52,Female,Tamil Nadu,Breast,No,II,Alive
+3,60,Male,Delhi,Lung,Yes,IV,Deceased
+4,38,Female,Kerala,Cervical,No,I,Alive
+5,55,Male,Maharashtra,Stomach,Yes,III,Deceased
+6,48,Female,West Bengal,Breast,No,II,Alive
+7,65,Male,Uttar Pradesh,Lung,Yes,IV,Deceased
+8,42,Female,Andhra Pradesh,Cervical,No,II,Alive
+9,58,Male,Rajasthan,Oral,Yes,III,Deceased
+10,35,Female,Telangana,Breast,No,I,Alive
+11,50,Male,Bihar,Esophagus,Yes,III,Deceased
+12,46,Female,Odisha,Ovarian,No,II,Alive
+13,62,Male,Punjab,Lung,Yes,IV,Deceased
+14,40,Female,Assam,Cervical,No,I,Alive
+15,57,Male,Gujarat,Stomach,Yes,III,Deceased
+16,44,Female,Madhya Pradesh,Breast,No,II,Alive
+17,68,Male,Haryana,Lung,Yes,IV,Deceased
+18,39,Female,Chhattisgarh,Cervical,No,I,Alive
+19,53,Male,Jharkhand,Oral,Yes,III,Deceased
+20,47,Female,Goa,Ovarian,No,II,Alive
